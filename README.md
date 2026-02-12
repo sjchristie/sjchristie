@@ -5,11 +5,16 @@ I'm a passionate cloud engineering student focused on building scalable infrastr
 
 🚀 About Me
 
-🌱 I'm currently learning cloud engineering, version control with Git, and infrastructure as code
-💼 Working on projects involving AWS/Azure/GCP and Docker/Kubernetes
-🎯 Goal: To become a skilled Cloud/DevOps engineer and contribute to open-source projects
-📚 Always eager to learn new technologies and best practices
-💡 Interested in automation, scalability, and cloud-native solutions
+🌱 I'm currently learning cloud engineering, version control with Git, and infrastructure as code  
+
+💼 Working on projects involving AWS/Azure/GCP and Docker/Kubernetes  
+
+🎯 Goal: To become a skilled Cloud/DevOps engineer and contribute to open-source projects  
+
+📚 Always eager to learn new technologies and best practices  
+
+💡 Interested in automation, scalability, and cloud-native solutions  
+
 
 <!--
 **sjchristie/sjchristie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
