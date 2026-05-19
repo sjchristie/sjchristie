@@ -1,32 +1,81 @@
-## Hi there 👋
+# Hi there 👋
 
-Cloud Engineering Student | Aspiring DevOps Engineer
-I'm a passionate cloud engineering student focused on building scalable infrastructure and automating deployments. Currently deepening my knowledge in cloud platforms, containerization, and CI/CD pipelines.
+Linux & DevOps-focused engineer building container platforms, automation workflows, and homelab infrastructure.
 
-🚀 About Me
+Currently focused on:
+- Docker and container orchestration
+- Kubernetes and self-hosted infrastructure
+- CI/CD automation with GitHub Actions
+- Linux system administration
+- Infrastructure as Code
+- Monitoring and observability
 
-🌱 I'm currently learning cloud engineering, version control with Git, and infrastructure as code  
+---
 
-💼 Working on projects involving AWS/Azure/GCP and Docker/Kubernetes  
+## 🚀 Current Projects
 
-🎯 Goal: To become a skilled Cloud/DevOps engineer and contribute to open-source projects  
+### 🏠 DevOps Homelab
+Building a self-hosted DevOps environment focused on:
+- container orchestration
+- reverse proxies
+- monitoring stacks
+- automation
+- networking
+- infrastructure management
 
-📚 Always eager to learn new technologies and best practices  
+### ⚙️ DevOps Platform Engineering
+Creating production-style deployment workflows using:
+- Docker
+- Docker Compose
+- GitHub Actions
+- Linux automation
+- observability tooling
 
-💡 Interested in automation, scalability, and cloud-native solutions  
+### 🖥️ Linux & Developer Workflow
+Maintaining custom Linux configurations and terminal tooling including:
+- Vim
+- tmux
+- Starship
+- shell automation
+- productivity-focused workflows
 
+---
 
-<!--
-**sjchristie/sjchristie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Technologies & Tools
 
-Here are some ideas to get you started:
+- Linux
+- Docker
+- Kubernetes
+- Git
+- GitHub Actions
+- Bash scripting
+- Terraform
+- Prometheus
+- Grafana
+- NGINX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Current Focus Areas
+
+- Infrastructure automation
+- Kubernetes deployments
+- GitOps workflows
+- Monitoring & observability
+- Production-style DevOps practices
+- Platform engineering concepts
+
+---
+
+## 📌 Featured Repositories
+
+- DevOps Home Lab
+- Dotfiles
+- Container Platform Projects
+- Infrastructure Automation Projects
+
+---
+
+## 🎯 Long-Term Goal
+
+To build and operate scalable, reliable, and automated infrastructure using modern DevOps and cloud-native practices.
