@@ -1,81 +1,16 @@
-# Hi there 👋
+## Stephen Christie
 
-Linux & DevOps-focused engineer building container platforms, automation workflows, and homelab infrastructure.
+Production systems lead moving into DevOps and platform engineering.
+Brisbane, Australia. Open to DevOps, platform engineering and SRE roles.
 
-Currently focused on:
-- Docker and container orchestration
-- Kubernetes and self-hosted infrastructure
-- CI/CD automation with GitHub Actions
-- Linux system administration
-- Infrastructure as Code
-- Monitoring and observability
+Portfolio: [christiehome.work](https://christiehome.work) · [LinkedIn](https://www.linkedin.com/in/stephenjchristie)
 
----
+### What I'm building
 
-## 🚀 Current Projects
+- **Homelab** — Proxmox VM running Docker Compose: Forgejo, Uptime Kuma, Paperless-ngx and more. Pinned versions, one volume per app, nightly backups with alerting. Runbooks with issue logs. [homelab](https://github.com/sjchristie/homelab) *(new repo, coming soon)*
+- **GitOps on Kubernetes** — two-node K3s cluster on Raspberry Pi with ArgoCD, a GitHub Actions pipeline, and Prometheus and Grafana. [humor-memory-game-kubernetes](https://github.com/sjchristie/humor-memory-game-kubernetes)
+- **CI/CD and containers** — a Node.js app with Docker and an automated test suite. [humor-memory-game-devops](https://github.com/sjchristie/humor-memory-game-devops)
 
-### 🏠 DevOps Homelab
-Building a self-hosted DevOps environment focused on:
-- container orchestration
-- reverse proxies
-- monitoring stacks
-- automation
-- networking
-- infrastructure management
+### Tools
 
-### ⚙️ DevOps Platform Engineering
-Creating production-style deployment workflows using:
-- Docker
-- Docker Compose
-- GitHub Actions
-- Linux automation
-- observability tooling
-
-### 🖥️ Linux & Developer Workflow
-Maintaining custom Linux configurations and terminal tooling including:
-- Vim
-- tmux
-- Starship
-- shell automation
-- productivity-focused workflows
-
----
-
-## 🛠 Technologies & Tools
-
-- Linux
-- Docker
-- Kubernetes
-- Git
-- GitHub Actions
-- Bash scripting
-- Terraform
-- Prometheus
-- Grafana
-- NGINX
-
----
-
-## 📚 Current Focus Areas
-
-- Infrastructure automation
-- Kubernetes deployments
-- GitOps workflows
-- Monitoring & observability
-- Production-style DevOps practices
-- Platform engineering concepts
-
----
-
-## 📌 Featured Repositories
-
-- DevOps Home Lab
-- Dotfiles
-- Container Platform Projects
-- Infrastructure Automation Projects
-
----
-
-## 🎯 Long-Term Goal
-
-To build and operate scalable, reliable, and automated infrastructure using modern DevOps and cloud-native practices.
+Linux · Docker · Kubernetes (K3s) · Terraform · GitHub Actions · ArgoCD · Prometheus · Grafana · Bash · Git
